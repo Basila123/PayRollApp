@@ -95,18 +95,19 @@ label{
 }
 
 
-/* UC3 */
-.profile-radio-content{
+
+    /* UC3 */
+    .profile-radio-content{
     display: flex;
     flex-direction: row;
-}
-.profile-radio-content>label{
+    }
+    .profile-radio-content>label{
     display: flex;
     flex-direction: row;
     align-items: center;
-}
-.profile{
+    }
+    .profile{
     width: 40px;
     border-radius: 50%;
     margin-left: 12px;
-}
+    }
